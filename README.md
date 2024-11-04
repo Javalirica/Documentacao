@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto visa desenvolver um sistema de <descrever> utilizando a metodologia ágil e práticas de DevOps integradas ao GitHub. A arquitetura do software seguirá o padrão Model-View-Controller (MVC) e incorporará o(s) padrõe(s) de projeto  <descrever> para garantir uma base de código robusta e escalável. O desenvolvimento será feito na linguagem Java.
+Este projeto visa desenvolver um sistema de gerenciamento de biblioteca física utilizando a metodologia ágil e práticas de DevOps integradas ao GitHub. A arquitetura do software seguirá o padrão Model-View-Controller (MVC) e incorporará o(s) padrõe(s) de projeto Factory para garantir uma base de código robusta e escalável. O desenvolvimento será feito na linguagem Java.
 
 ## Índice
 
@@ -58,8 +58,7 @@ disponível”, “não dependa de ninguém para usar”.
 como o sistema trata de informação confidencial, liberação de acesso aos usuários do
 sistema.>.
 
-## Diagramas UML
-   <Comentario
+## Diagramas UML   
    
    ### Diagrama de Casos de Uso
     <Comentario 
@@ -74,14 +73,19 @@ sistema.>.
 - `docs/`: Documentação adicional.
 
 ## Tecnologias Utilizadas
-- [Linguagem de Programação]
-- [Framework/Biblioteca]
-- [Outras Tecnologias]
+- JAVA
+- Maven
+- Spring - security
+- Spring - dataJpa
+- Spring - Email
+- Spring - Validation
+- jjwt
+- H2
 
 ## Instruções de Instalação
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/sua-organizacao/nome-do-repositorio.git
+   git clone https://github.com/Javalirica/back-end.git
 ## Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo <LICENSE> para mais detalhes.
 ## Contato
