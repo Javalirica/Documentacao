@@ -100,11 +100,50 @@ Controle de Aluguel - Função que registra e monitora o status de cada livro al
 ## Diagramas UML   
    
    ### Diagrama de Casos de Uso
-    <Comentario 
-    ID Caso de Uso               Descrição do Objetivo do Caso de Uso
-    UC1 Consultar Pedido de Sala Permite consultar os pedidos de sala solicitados.
+Atores:
+
+A) Bibliotecário: Responsável pelo gerenciamento dos livros, estoques e locações.
+
+B) Leitor: Usuário do sistema que poderá consultar informações sobre livros e seu próprio histórico de empréstimos.
+
+C) Administrador do Sistema: Responsável pelo controle de acesso e segurança do sistema.
+
+Casos de Uso:
+
+1 - Adicionar Livro – Bibliotecário adiciona um novo livro ao sistema.
+
+2 - Remover Livro – Bibliotecário remove um livro do sistema.
+
+3 - Listar Livro – Bibliotecário ou Leitor pode visualizar a lista de livros disponíveis.
+
+4 - Atualizar Estoque – Bibliotecário atualiza a quantidade de um livro específico.
+
+5 - Consultar Estoque – Bibliotecário verifica a quantidade de livros disponíveis.
+
+6 - Locar Livro – Bibliotecário ou Leitor realiza a locação de um livro.
+
+7 - Pesquisar Livro – Bibliotecário ou Leitor pesquisa um livro específico.
+
+8 - Consultar Disponibilidade – Leitor consulta a disponibilidade de um livro.
+
+9 - Verificar Livros em Empréstimos – Bibliotecário consulta os livros atualmente emprestados.
+
+10 - Verificar Leitores Ativos – Bibliotecário verifica quais leitores estão com livros emprestados.
+
+11 - Cadastrar Leitores – Bibliotecário registra novos leitores no sistema.
+
+12 - Excluir Leitores – Bibliotecário remove leitores do sistema.
+
+13 - Controlar Acesso de Usuário – Administrador gerencia os acessos dos usuários ao sistema
+
+![Diagrama de caso de uso](https://github.com/user-attachments/assets/cafdea6c-91b4-4dd9-80a7-3a8583648f2a)
+
+
    
    ### Diagrama de Classe
+   
+   ![ERD de hóquei1](https://github.com/user-attachments/assets/6052e093-ad6d-413e-892c-21872d18e194)
+
 
 ## Estrutura do Projeto 
 <Comentario: faça a adaptação necessária para o seu projeto
