@@ -41,12 +41,6 @@ Biblioteca Digital - Repositório digital onde os livros são armazenados e orga
 Controle de Aluguel - Função que registra e monitora o status de cada livro alugado, incluindo informações de locação e devolução.
 
 ## Requisitos ou História de Usuário
-< Comentário: Aqui serão descritos os requisitos funcionais e não funcionais do
-sistema a ser implementado. Os requisitos, em geral, refletem funções que o usuário
-precisa realizar para atingir o objetivo do sistema ou funções de apoio à estratégia
-do negócio. Registros, controle de fluxo, consultas e cadastros são requisitos típicos.
-Em geral, requisito é algo que o usuário solicita explicitamente (ou requisita)
-O grupo pode optar por usar história de usuário.
 
    ### Requisitos Funcionais
 
