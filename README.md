@@ -81,6 +81,9 @@ sistema.>.
 - Spring - Validation
 - jjwt
 - H2
+- HTML
+- CSS
+- JS
 
 ## Instruções de Instalação
 1. Clone o repositório:
