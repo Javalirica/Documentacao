@@ -185,7 +185,7 @@ Leonardo Gabriel Silva - Leonardogabrielsilva1@outlook.com
 Guilherme Procópio - guilhermeviniciusgv42@gmail.com
 
 ![Breno Jesus Andrade - ](https://github.com/user-attachments/assets/ee06874f-c54a-4fe9-9ec3-302688b38d69)
-
+Breno Jesus - Breno.jesus33@hotmail.com
 
 ![Pedro Rodrigues - pedrodejesus2001@gmail.com](https://github.com/user-attachments/assets/ea31860e-b741-43b1-a867-e524d9cc1de3)
 Pedro Rodrigues - pedrodejesus2001@gmail.com
