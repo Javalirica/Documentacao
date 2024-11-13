@@ -124,9 +124,18 @@ Controle de Aluguel - Função que registra e monitora o status de cada livro al
 ## Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo <LICENSE> para mais detalhes.
 ## Contato
-![Marco Thulio Martins - marcothulio120799@mail.com](https://github.com/user-attachments/assets/1169905f-00b1-44de-bd49-eab2a20774c2) Marco Thulio Martins - marcothulio120799@mail.com
-![Leonardo Gabriel Silva - Leonardogabrielsilva1@outlook.com ](https://github.com/user-attachments/assets/45223d9f-4c4a-4214-8ee0-1238e606c73a) Leonardo Gabriel Silva - Leonardogabrielsilva1@outlook.com
-![Guilherme Procópio - guilhermeviniciusgv42@gmail.com ](https://github.com/user-attachments/assets/383ade1c-e589-48be-909f-1dbcce80a0db) Guilherme Procópio - guilhermeviniciusgv42@gmail.com
+![Marco Thulio Martins - marcothulio120799@mail.com](https://github.com/user-attachments/assets/1169905f-00b1-44de-bd49-eab2a20774c2) 
+Marco Thulio Martins - marcothulio120799@mail.com
+
+![Leonardo Gabriel Silva - Leonardogabrielsilva1@outlook.com ](https://github.com/user-attachments/assets/45223d9f-4c4a-4214-8ee0-1238e606c73a) 
+Leonardo Gabriel Silva - Leonardogabrielsilva1@outlook.com
+
+![Guilherme Procópio - guilhermeviniciusgv42@gmail.com ](https://github.com/user-attachments/assets/383ade1c-e589-48be-909f-1dbcce80a0db) 
+Guilherme Procópio - guilhermeviniciusgv42@gmail.com
+
 ![Breno Jesus Andrade - ](https://github.com/user-attachments/assets/ee06874f-c54a-4fe9-9ec3-302688b38d69)
+
+
 ![Pedro Rodrigues - pedrodejesus2001@gmail.com](https://github.com/user-attachments/assets/ea31860e-b741-43b1-a867-e524d9cc1de3)
+Pedro Rodrigues - pedrodejesus2001@gmail.com
 
