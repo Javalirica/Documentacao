@@ -45,17 +45,29 @@ Controle de Aluguel - Função que registra e monitora o status de cada livro al
    ### Requisitos Funcionais
 
 1 - Adicionar Livro
+
 2 - Remover Livro
+
 3 - Listar Livro
+
 4 - Atualizar Estoque
+
 5 - Consultar Estoque
+
 6 - Locar Livro
+
 7 - Pesquisar Livro
+
 8 - Consultar Disponibilidade
+
 9 - Verificar Livros em Empréstimos
+
 10 - Verificar Leitores Ativos
+
 11 - Cadastrar Leitores
+
 12 - Excluir Leitores
+
 13 - Controlar Acesso de Usuário
 
    ### Requisitos Não Funcionais
