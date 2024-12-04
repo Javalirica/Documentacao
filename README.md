@@ -168,6 +168,8 @@ Casos de Uso:
    ```sh
    git clone https://github.com/Javalirica/back-end.git
 
+   além do clone no github o servidor se encontra rodando em um serviço ec2 na aws no caminho http://3.141.87.82:8080
+
 2. Clone do repositório Font-End
    ```sh
    https://github.com/Javalirica/front-end
