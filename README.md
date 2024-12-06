@@ -189,7 +189,7 @@ Guilherme Procópio - guilhermeviniciusgv42@gmail.com
 ![Breno Jesus Andrade - ](https://github.com/user-attachments/assets/ee06874f-c54a-4fe9-9ec3-302688b38d69)
 Breno Jesus - Breno.jesus33@hotmail.com
 
-![Pedro Rodrigues - pedrodejesus2001@gmail.com]![WhatsApp Image 2024-11-13 at 10 53 22](https://github.com/user-attachments/assets/1c650d87-ab54-4e65-adf8-e9fad90cab85)
+![Pedro Rodrigues - pedrodejesus2001@gmail.com](https://github.com/user-attachments/assets/1c650d87-ab54-4e65-adf8-e9fad90cab85)
 
 Pedro Rodrigues - pedrodejesus2001@gmail.com
 
