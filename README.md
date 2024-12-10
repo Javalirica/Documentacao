@@ -122,25 +122,21 @@ Casos de Uso:
 
 3 - Listar Livro – Bibliotecário ou Leitor pode visualizar a lista de livros disponíveis.
 
-4 - Atualizar Estoque – Bibliotecário atualiza a quantidade de um livro específico.
+4 - Locar Livro – Bibliotecário ou Leitor realiza a locação de um livro.
 
-5 - Consultar Estoque – Bibliotecário verifica a quantidade de livros disponíveis.
+5 - Pesquisar Livro – Bibliotecário ou Leitor pesquisa um livro específico.
 
-6 - Locar Livro – Bibliotecário ou Leitor realiza a locação de um livro.
+6 - Consultar Disponibilidade – Leitor consulta a disponibilidade de um livro.
 
-7 - Pesquisar Livro – Bibliotecário ou Leitor pesquisa um livro específico.
+7 - Verificar Livros em Empréstimos – Bibliotecário consulta os livros atualmente emprestados.
 
-8 - Consultar Disponibilidade – Leitor consulta a disponibilidade de um livro.
+8 - Verificar Leitores Ativos – Bibliotecário verifica quais leitores estão com livros emprestados.
 
-9 - Verificar Livros em Empréstimos – Bibliotecário consulta os livros atualmente emprestados.
+9 - Cadastrar Leitores – Bibliotecário registra novos leitores no sistema.
 
-10 - Verificar Leitores Ativos – Bibliotecário verifica quais leitores estão com livros emprestados.
+10 - Excluir Leitores – Bibliotecário remove leitores do sistema.
 
-11 - Cadastrar Leitores – Bibliotecário registra novos leitores no sistema.
-
-12 - Excluir Leitores – Bibliotecário remove leitores do sistema.
-
-13 - Controlar Acesso de Usuário – Administrador gerencia os acessos dos usuários ao sistema
+11 - Controlar Acesso de Usuário – Administrador gerencia os acessos dos usuários ao sistema
 
 ![Diagrama de caso de uso](https://github.com/user-attachments/assets/cafdea6c-91b4-4dd9-80a7-3a8583648f2a)
 
