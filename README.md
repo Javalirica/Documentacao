@@ -144,7 +144,8 @@ Casos de Uso:
    
    ### Diagrama de Classe
    
-   ![ERD de hóquei1](https://github.com/user-attachments/assets/6052e093-ad6d-413e-892c-21872d18e194)
+   ![ERD de hóquei1](https://github.com/user-attachments/assets/4dcc2ab7-c3ec-4cff-9bfe-9a7522b7f0db)
+
 
 
 ## Estrutura do Projeto 
