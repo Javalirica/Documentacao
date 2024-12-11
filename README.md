@@ -138,7 +138,7 @@ Casos de Uso:
 
 11 - Controlar Acesso de Usuário – Administrador gerencia os acessos dos usuários ao sistema
 
-![Diagrama de caso de uso](https://github.com/user-attachments/assets/cafdea6c-91b4-4dd9-80a7-3a8583648f2a)
+![Diagrama de caso de uso](https://github.com/user-attachments/assets/abbfc86f-bfdd-47e4-b805-02c8cecd1155)
 
 
    
